@@ -2,12 +2,26 @@ header {
     background-color: forestgreen;
     color: white;
     position: relative;
+  
   }
   li {
     display: inline;
-    position: relative;
+    color: white; 
+    right: -1550px; 
+    font-size: 24px;
+  }
+
+  body{
+      text-align: center;
   }
   h3 {
+  }
+
+
+  footer {
+      background-color: forestgreen;
+      color: white;
+      font-size: 18px;
   }
   /* ul {
     position: absolute;
